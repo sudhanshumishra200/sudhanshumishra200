@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on frontend
 - 💬 Ask me about Js
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
 
